@@ -1,4 +1,3 @@
-## Hi there 👋
 
 <!--
 **vinaysrikar/vinaysrikar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,7 +13,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Vinay%20Srikar&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20AI%20Builder%20%7C%20Open%20Source%20Enthusiast&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
@@ -33,24 +31,23 @@ Here are some ideas to get you started:
 
 ```javascript
 const vinaySrikar = {
-  name        : "Vinay Srikar Puramsetti",
-  location    : "Chennai, India 🇮🇳",
-  degree      : "B.E. Computer Science Engineering (2024–2028)",
-  college     : "Sathyabama Institute of Science and Technology",
+  name     : "Vinay Srikar",
+  location : "Chennai, India 🇮🇳",
+  degree   : "B.E. CSE @ Sathyabama (2024–2028)",
 
-  stack       : ["React", "TypeScript", "Node.js", "Express.js",
-                 "FastAPI", "Python", "MongoDB", "AWS EC2"],
-
-  currentlyLearning : [
-    "System Design",
-    "Advanced TypeScript Patterns",
-    "LLM Agent Architectures",
-    "Docker & Kubernetes"
+  stack    : [
+    "React", "TypeScript", "Node.js",
+    "Express.js", "FastAPI", "MongoDB",
   ],
 
-  funFact     : "I built an AI benchmark env before finishing my 1st year 🤖",
+  learning : [
+    "System Design",
+    "LLM Agent Architectures",
+    "Docker & Kubernetes",
+  ],
 
-  motto       : () => "Ship fast. Learn faster. Never stop building.",
+  funFact  : "Built an AI benchmark before Year 1 ended 🤖",
+  motto    : () => "Ship fast. Learn faster. Build always.",
 };
 ```
 
@@ -86,8 +83,7 @@ const vinaySrikar = {
 
 **Databases**
 
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-4DB33D?style=flat-square&logo=mongodb&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 **Tools**
 
